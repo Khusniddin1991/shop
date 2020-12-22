@@ -23,16 +23,4 @@ class _List1State extends State<List1> {
 
 
 
-
-
-
-  @override
-  Widget build(BuildContext context) {
-    return ListView.builder(i,itemBuilder:(ctx,index)
-    {
-
-    }
-
-    );
-  }
 }
